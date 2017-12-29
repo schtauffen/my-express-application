@@ -1,0 +1,17 @@
+{
+  "name": "my-express-application",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Zach Dahl <z.schtauffen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "serverless-http": "1.5.2"
+  },
+  "devDependencies": {
+    "serverless-dynamodb-local": "0.2.26",
+    "serverless-offline": "3.16.0"
+  }
+}
