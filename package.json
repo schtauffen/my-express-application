@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Zach Dahl <z.schtauffen@gmail.com>",
   "license": "ISC",
+  "scripts": {
+    "start": "sls offline start",
+    "deploy": "sls deploy"
+  },
   "dependencies": {
     "aws-sdk": "2.176.0",
     "body-parser": "1.18.2",
