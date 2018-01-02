@@ -12,7 +12,8 @@
     "aws-sdk": "2.176.0",
     "body-parser": "1.18.2",
     "express": "4.16.2",
-    "serverless-http": "1.5.2"
+    "serverless-http": "1.5.2",
+    "superagent": "3.8.2"
   },
   "devDependencies": {
     "serverless-dynamodb-local": "0.2.26",
